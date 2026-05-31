@@ -1,0 +1,129 @@
+{
+  "image_name": "img_3.jpg",
+  "total_products": 69,
+  "products": {
+    "Actimel": 8,
+    "Amul Royale Strawberry": 2,
+    "Amul Kool": 4,
+    "Nestle A+ Yogurt": 5,
+    "Activia Yogurt": 4,
+    "Amul Pro Vanilla": 2,
+    "Amul Taaza Milk": 3,
+    "Amul Gold Milk": 3,
+    "Go Cheese Slices": 1,
+    "Yakult": 6,
+    "Other": 4,
+    "Epigamia Milkshake": 3,
+    "Hersheys Milkshake": 2,
+    "Milky Mist Butter": 2,
+    "Milky Mist Pizza Cheese": 4,
+    "Amul Butter": 4,
+    "Amul Cheese": 2,
+    "Amul Pro Chocolate": 1,
+    "Amul Shakti Milk": 3,
+    "Amul Cheese Spread": 2,
+    "Mother Dairy Toned Milk": 2,
+    "Amul Royale Mango": 2
+  },
+  "brands": {
+    "Coca-Cola": 0,
+    "Pepsi": 0,
+    "Lay's": 0,
+    "Doritos": 0,
+    "Other": 69
+  },
+  "ocr_labels": [
+    "₹25",
+    "₹20",
+    "₹28",
+    "₹45",
+    "₹62",
+    "₹60",
+    "₹35",
+    "₹30",
+    "₹40",
+    "₹130",
+    "₹140",
+    "₹85"
+  ],
+  "share_of_shelf": {
+    "Other": "100%",
+    "Coca-Cola": "0%",
+    "Pepsi": "0%",
+    "Lay's": "0%",
+    "Doritos": "0%"
+  },
+  "availability": {
+    "Coca-Cola": "Not Present",
+    "Pepsi": "Not Present",
+    "Lay's": "Not Present",
+    "Doritos": "Not Present"
+  },
+  "insights": {
+    "dominant_brand": "Other",
+    "highest_share_of_shelf": "Other",
+    "brands_present": []
+  },
+  "product_price_associations": [
+    {
+      "product": "Actimel",
+      "price": "₹25"
+    },
+    {
+      "product": "Actimel",
+      "price": "₹20"
+    },
+    {
+      "product": "Yakult",
+      "price": "₹28"
+    },
+    {
+      "product": "Epigamia Milkshake",
+      "price": "₹45"
+    },
+    {
+      "product": "Amul Gold Milk",
+      "price": "₹62"
+    },
+    {
+      "product": "Amul Taaza Milk",
+      "price": "₹62"
+    },
+    {
+      "product": "Amul Shakti Milk",
+      "price": "₹60"
+    },
+    {
+      "product": "Amul Pro Chocolate",
+      "price": "₹35"
+    },
+    {
+      "product": "Amul Royale Strawberry",
+      "price": "₹30"
+    },
+    {
+      "product": "Amul Kool",
+      "price": "₹25"
+    },
+    {
+      "product": "Hersheys Milkshake",
+      "price": "₹40"
+    },
+    {
+      "product": "Milky Mist Pizza Cheese",
+      "price": "₹130"
+    },
+    {
+      "product": "Milky Mist Pizza Cheese",
+      "price": "₹140"
+    },
+    {
+      "product": "Milky Mist Pizza Cheese",
+      "price": "₹60"
+    },
+    {
+      "product": "Go Cheese Slices",
+      "price": "₹85"
+    }
+  ]
+}

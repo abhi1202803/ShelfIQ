@@ -1,0 +1,421 @@
+[
+  {
+    "image_name": "img_1.jpg",
+    "total_products": 78,
+    "products": {
+      "Pepsi": 4,
+      "Minute Maid Mixed Fruit": 1,
+      "Mirinda": 4,
+      "Tropicana Apple Delight": 1,
+      "Minute Maid Pulpy Orange": 2,
+      "7UP": 3,
+      "Limca": 3,
+      "Paper Boat Aam Panna": 1,
+      "Nestea": 4,
+      "Tropicana Pineapple Delight": 1,
+      "Real Mixed Fruit": 2,
+      "Lipton Ice Tea": 4,
+      "Tropicana Pomegranate Delight": 1,
+      "Thums Up": 3,
+      "Tropicana Orange Delight": 1,
+      "Red Bull": 3,
+      "Nescafe": 3,
+      "Diet Coke": 3,
+      "Real Guava": 2,
+      "Tropicana Mixed Fruit": 1,
+      "Gatorade": 4,
+      "Paper Boat Jamun": 2,
+      "Sprite": 3,
+      "Real Pomegranate": 1,
+      "Coca Cola": 4,
+      "Minute Maid Apple": 1,
+      "Real Orange Juice": 1,
+      "Fanta": 4,
+      "B Natural Pomegranate": 1,
+      "Other": 1,
+      "Mountain Dew": 4,
+      "B Natural Orange": 2,
+      "Amul Kool": 3
+    },
+    "brands": {
+      "Coca-Cola": 24,
+      "Pepsi": 24,
+      "Lay's": 0,
+      "Doritos": 0,
+      "Other": 30
+    },
+    "ocr_labels": [
+      "₹99",
+      "₹105",
+      "₹125",
+      "₹50",
+      "₹55",
+      "₹60",
+      "₹40",
+      "₹35",
+      "₹30",
+      "₹75"
+    ],
+    "share_of_shelf": {
+      "Pepsi": "30%",
+      "Other": "38%",
+      "Coca-Cola": "32%",
+      "Lay's": "0%",
+      "Doritos": "0%"
+    },
+    "availability": {
+      "Coca-Cola": "Available",
+      "Pepsi": "Available",
+      "Lay's": "Not Present",
+      "Doritos": "Not Present"
+    },
+    "insights": {
+      "dominant_brand": "Other",
+      "highest_share_of_shelf": "Other",
+      "brands_present": [
+        "Coca-Cola",
+        "Pepsi"
+      ]
+    },
+    "product_price_associations": [
+      {
+        "product": "Real Orange Juice",
+        "price": "₹99"
+      },
+      {
+        "product": "Minute Maid Apple",
+        "price": "₹105"
+      },
+      {
+        "product": "Tropicana Mixed Fruit",
+        "price": "₹125"
+      },
+      {
+        "product": "Limca",
+        "price": "₹50"
+      },
+      {
+        "product": "Fanta",
+        "price": "₹50"
+      },
+      {
+        "product": "Thums Up",
+        "price": "₹50"
+      },
+      {
+        "product": "Diet Coke",
+        "price": "₹55"
+      },
+      {
+        "product": "Coca Cola",
+        "price": "₹50"
+      },
+      {
+        "product": "Sprite",
+        "price": "₹50"
+      },
+      {
+        "product": "Pepsi",
+        "price": "₹50"
+      },
+      {
+        "product": "Mirinda",
+        "price": "₹50"
+      },
+      {
+        "product": "Lipton Ice Tea",
+        "price": "₹60"
+      },
+      {
+        "product": "7UP",
+        "price": "₹50"
+      },
+      {
+        "product": "Mountain Dew",
+        "price": "₹50"
+      },
+      {
+        "product": "Nestea",
+        "price": "₹60"
+      },
+      {
+        "product": "Nescafe",
+        "price": "₹40"
+      },
+      {
+        "product": "Paper Boat Jamun",
+        "price": "₹35"
+      },
+      {
+        "product": "Amul Kool",
+        "price": "₹30"
+      },
+      {
+        "product": "Gatorade",
+        "price": "₹75"
+      },
+      {
+        "product": "B Natural Orange",
+        "price": "₹40"
+      }
+    ]
+  },
+  {
+    "image_name": "img_2.jpg",
+    "total_products": 41,
+    "products": {
+      "Doritos Cool Ranch": 1,
+      "Cheetos Green": 1,
+      "Lay's Chile Limon": 2,
+      "Good Day Butter": 2,
+      "Lay's Spanish Tomato Tango": 1,
+      "Good Day Cashew": 1,
+      "Lay's Classic": 1,
+      "Doritos Sweet Chili": 2,
+      "Pringles Texas BBQ": 1,
+      "Lay's Magic Masala": 1,
+      "Marie Gold": 1,
+      "Cheetos Crunchy": 1,
+      "Dark Fantasy": 1,
+      "Pringles Sour Cream": 1,
+      "Oreo Choco Creme": 1,
+      "Bingo Mad Angles": 2,
+      "Pringles Original": 1,
+      "Malkist Cheese": 1,
+      "Parle G": 2,
+      "Malkist Masala": 1,
+      "Other": 5,
+      "Monaco": 1,
+      "Kurkure": 2,
+      "Hide and Seek Fab": 1,
+      "Oreo Original": 1,
+      "Uncle Chips Spicy Treat": 1,
+      "Bingo Cream and Onion": 1,
+      "Hide and Seek Milano": 1,
+      "Uncle Chips Plain Salted": 1,
+      "Tiger Krunch": 2
+    },
+    "brands": {
+      "Coca-Cola": 0,
+      "Pepsi": 4,
+      "Lay's": 5,
+      "Doritos": 3,
+      "Other": 29
+    },
+    "ocr_labels": [
+      "₹20",
+      "₹28",
+      "₹99",
+      "₹30"
+    ],
+    "share_of_shelf": {
+      "Lay's": "11%",
+      "Doritos": "8%",
+      "Pepsi": "9%",
+      "Other": "72%",
+      "Coca-Cola": "0%"
+    },
+    "availability": {
+      "Coca-Cola": "Not Present",
+      "Pepsi": "Available",
+      "Lay's": "Available",
+      "Doritos": "Available"
+    },
+    "insights": {
+      "dominant_brand": "Other",
+      "highest_share_of_shelf": "Other",
+      "brands_present": [
+        "Pepsi",
+        "Lay's",
+        "Doritos"
+      ]
+    },
+    "product_price_associations": [
+      {
+        "product": "Cheetos Crunchy",
+        "price": "₹20"
+      },
+      {
+        "product": "Lay's Spanish Tomato Tango",
+        "price": "₹20"
+      },
+      {
+        "product": "Lay's Magic Masala",
+        "price": "₹20"
+      },
+      {
+        "product": "Doritos Cool Ranch",
+        "price": "₹28"
+      },
+      {
+        "product": "Pringles Sour Cream",
+        "price": "₹99"
+      },
+      {
+        "product": "Lay's Chile Limon",
+        "price": "₹20"
+      },
+      {
+        "product": "Other",
+        "price": "₹20"
+      },
+      {
+        "product": "Uncle Chips Plain Salted",
+        "price": "₹20"
+      },
+      {
+        "product": "Oreo Original",
+        "price": "₹20"
+      },
+      {
+        "product": "Marie Gold",
+        "price": "₹20"
+      },
+      {
+        "product": "Good Day Butter",
+        "price": "₹20"
+      },
+      {
+        "product": "Hide and Seek Milano",
+        "price": "₹30"
+      },
+      {
+        "product": "Hide and Seek Fab",
+        "price": "₹20"
+      },
+      {
+        "product": "Dark Fantasy",
+        "price": "₹30"
+      }
+    ]
+  },
+  {
+    "image_name": "img_3.jpg",
+    "total_products": 69,
+    "products": {
+      "Actimel": 8,
+      "Amul Royale Strawberry": 2,
+      "Amul Kool": 4,
+      "Nestle A+ Yogurt": 5,
+      "Activia Yogurt": 4,
+      "Amul Pro Vanilla": 2,
+      "Amul Taaza Milk": 3,
+      "Amul Gold Milk": 3,
+      "Go Cheese Slices": 1,
+      "Yakult": 6,
+      "Other": 4,
+      "Epigamia Milkshake": 3,
+      "Hersheys Milkshake": 2,
+      "Milky Mist Butter": 2,
+      "Milky Mist Pizza Cheese": 4,
+      "Amul Butter": 4,
+      "Amul Cheese": 2,
+      "Amul Pro Chocolate": 1,
+      "Amul Shakti Milk": 3,
+      "Amul Cheese Spread": 2,
+      "Mother Dairy Toned Milk": 2,
+      "Amul Royale Mango": 2
+    },
+    "brands": {
+      "Coca-Cola": 0,
+      "Pepsi": 0,
+      "Lay's": 0,
+      "Doritos": 0,
+      "Other": 69
+    },
+    "ocr_labels": [
+      "₹25",
+      "₹20",
+      "₹28",
+      "₹45",
+      "₹62",
+      "₹60",
+      "₹35",
+      "₹30",
+      "₹40",
+      "₹130",
+      "₹140",
+      "₹85"
+    ],
+    "share_of_shelf": {
+      "Other": "100%",
+      "Coca-Cola": "0%",
+      "Pepsi": "0%",
+      "Lay's": "0%",
+      "Doritos": "0%"
+    },
+    "availability": {
+      "Coca-Cola": "Not Present",
+      "Pepsi": "Not Present",
+      "Lay's": "Not Present",
+      "Doritos": "Not Present"
+    },
+    "insights": {
+      "dominant_brand": "Other",
+      "highest_share_of_shelf": "Other",
+      "brands_present": []
+    },
+    "product_price_associations": [
+      {
+        "product": "Actimel",
+        "price": "₹25"
+      },
+      {
+        "product": "Actimel",
+        "price": "₹20"
+      },
+      {
+        "product": "Yakult",
+        "price": "₹28"
+      },
+      {
+        "product": "Epigamia Milkshake",
+        "price": "₹45"
+      },
+      {
+        "product": "Amul Gold Milk",
+        "price": "₹62"
+      },
+      {
+        "product": "Amul Taaza Milk",
+        "price": "₹62"
+      },
+      {
+        "product": "Amul Shakti Milk",
+        "price": "₹60"
+      },
+      {
+        "product": "Amul Pro Chocolate",
+        "price": "₹35"
+      },
+      {
+        "product": "Amul Royale Strawberry",
+        "price": "₹30"
+      },
+      {
+        "product": "Amul Kool",
+        "price": "₹25"
+      },
+      {
+        "product": "Hersheys Milkshake",
+        "price": "₹40"
+      },
+      {
+        "product": "Milky Mist Pizza Cheese",
+        "price": "₹130"
+      },
+      {
+        "product": "Milky Mist Pizza Cheese",
+        "price": "₹140"
+      },
+      {
+        "product": "Milky Mist Pizza Cheese",
+        "price": "₹60"
+      },
+      {
+        "product": "Go Cheese Slices",
+        "price": "₹85"
+      }
+    ]
+  }
+]

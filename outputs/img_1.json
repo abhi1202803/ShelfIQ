@@ -1,0 +1,161 @@
+{
+  "image_name": "img_1.jpg",
+  "total_products": 78,
+  "products": {
+    "Pepsi": 4,
+    "Minute Maid Mixed Fruit": 1,
+    "Mirinda": 4,
+    "Tropicana Apple Delight": 1,
+    "Minute Maid Pulpy Orange": 2,
+    "7UP": 3,
+    "Limca": 3,
+    "Paper Boat Aam Panna": 1,
+    "Nestea": 4,
+    "Tropicana Pineapple Delight": 1,
+    "Real Mixed Fruit": 2,
+    "Lipton Ice Tea": 4,
+    "Tropicana Pomegranate Delight": 1,
+    "Thums Up": 3,
+    "Tropicana Orange Delight": 1,
+    "Red Bull": 3,
+    "Nescafe": 3,
+    "Diet Coke": 3,
+    "Real Guava": 2,
+    "Tropicana Mixed Fruit": 1,
+    "Gatorade": 4,
+    "Paper Boat Jamun": 2,
+    "Sprite": 3,
+    "Real Pomegranate": 1,
+    "Coca Cola": 4,
+    "Minute Maid Apple": 1,
+    "Real Orange Juice": 1,
+    "Fanta": 4,
+    "B Natural Pomegranate": 1,
+    "Other": 1,
+    "Mountain Dew": 4,
+    "B Natural Orange": 2,
+    "Amul Kool": 3
+  },
+  "brands": {
+    "Coca-Cola": 24,
+    "Pepsi": 24,
+    "Lay's": 0,
+    "Doritos": 0,
+    "Other": 30
+  },
+  "ocr_labels": [
+    "₹99",
+    "₹105",
+    "₹125",
+    "₹50",
+    "₹55",
+    "₹60",
+    "₹40",
+    "₹35",
+    "₹30",
+    "₹75"
+  ],
+  "share_of_shelf": {
+    "Pepsi": "30%",
+    "Other": "38%",
+    "Coca-Cola": "32%",
+    "Lay's": "0%",
+    "Doritos": "0%"
+  },
+  "availability": {
+    "Coca-Cola": "Available",
+    "Pepsi": "Available",
+    "Lay's": "Not Present",
+    "Doritos": "Not Present"
+  },
+  "insights": {
+    "dominant_brand": "Other",
+    "highest_share_of_shelf": "Other",
+    "brands_present": [
+      "Coca-Cola",
+      "Pepsi"
+    ]
+  },
+  "product_price_associations": [
+    {
+      "product": "Real Orange Juice",
+      "price": "₹99"
+    },
+    {
+      "product": "Minute Maid Apple",
+      "price": "₹105"
+    },
+    {
+      "product": "Tropicana Mixed Fruit",
+      "price": "₹125"
+    },
+    {
+      "product": "Limca",
+      "price": "₹50"
+    },
+    {
+      "product": "Fanta",
+      "price": "₹50"
+    },
+    {
+      "product": "Thums Up",
+      "price": "₹50"
+    },
+    {
+      "product": "Diet Coke",
+      "price": "₹55"
+    },
+    {
+      "product": "Coca Cola",
+      "price": "₹50"
+    },
+    {
+      "product": "Sprite",
+      "price": "₹50"
+    },
+    {
+      "product": "Pepsi",
+      "price": "₹50"
+    },
+    {
+      "product": "Mirinda",
+      "price": "₹50"
+    },
+    {
+      "product": "Lipton Ice Tea",
+      "price": "₹60"
+    },
+    {
+      "product": "7UP",
+      "price": "₹50"
+    },
+    {
+      "product": "Mountain Dew",
+      "price": "₹50"
+    },
+    {
+      "product": "Nestea",
+      "price": "₹60"
+    },
+    {
+      "product": "Nescafe",
+      "price": "₹40"
+    },
+    {
+      "product": "Paper Boat Jamun",
+      "price": "₹35"
+    },
+    {
+      "product": "Amul Kool",
+      "price": "₹30"
+    },
+    {
+      "product": "Gatorade",
+      "price": "₹75"
+    },
+    {
+      "product": "B Natural Orange",
+      "price": "₹40"
+    }
+  ]
+}

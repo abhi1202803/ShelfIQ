@@ -1,0 +1,32 @@
+graph TD
+    A[Input Shelf Image] --> B[Image Resizing & Preprocessing]
+    B --> C[DETR SKU-110K Object Detector]
+    C --> D[Non-Max Suppression NMS]
+    D --> E[Product Bounding Boxes]
+    E --> F[Product Cropping]
+    E --> J[Shelf Row DBSCAN Clustering]
+    F --> G[CLIP Brand Classifier]
+    G --> H[Zero-Shot Class Probabilities]
+    H --> I{Score >= 0.4?}
+    I -- Yes --> K[Assign Class: Lays, Doritos, Coke, Pepsi]
+    I -- No --> L[Assign Class: Other]
+    K --> M[Brand Labels]
+    L --> M
+    A --> N[EasyOCR Engine]
+    N --> O[Raw OCR Detections]
+    O --> P[Regex Price Tag Cleaning]
+    P --> Q[Clean Price Labels]
+    J --> R[Row Midpoints & Layout]
+    M --> S[Share of Shelf SOS Math]
+    R --> S
+    S --> T[Business Metrics Compilation]
+    Q --> T
+    T --> U[JSON Metrics Output]
+    M --> V[OpenCV Visual Overlay Rendering]
+    R --> V
+    Q --> V
+    V --> W[Annotated Overlay Image]
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style U fill:#85C1E9,stroke:#333,stroke-width:2px
+    style W fill:#82E0AA,stroke:#333,stroke-width:2px

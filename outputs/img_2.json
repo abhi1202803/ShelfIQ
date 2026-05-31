@@ -1,0 +1,129 @@
+{
+  "image_name": "img_2.jpg",
+  "total_products": 41,
+  "products": {
+    "Doritos Cool Ranch": 1,
+    "Cheetos Green": 1,
+    "Lay's Chile Limon": 2,
+    "Good Day Butter": 2,
+    "Lay's Spanish Tomato Tango": 1,
+    "Good Day Cashew": 1,
+    "Lay's Classic": 1,
+    "Doritos Sweet Chili": 2,
+    "Pringles Texas BBQ": 1,
+    "Lay's Magic Masala": 1,
+    "Marie Gold": 1,
+    "Cheetos Crunchy": 1,
+    "Dark Fantasy": 1,
+    "Pringles Sour Cream": 1,
+    "Oreo Choco Creme": 1,
+    "Bingo Mad Angles": 2,
+    "Pringles Original": 1,
+    "Malkist Cheese": 1,
+    "Parle G": 2,
+    "Malkist Masala": 1,
+    "Other": 5,
+    "Monaco": 1,
+    "Kurkure": 2,
+    "Hide and Seek Fab": 1,
+    "Oreo Original": 1,
+    "Uncle Chips Spicy Treat": 1,
+    "Bingo Cream and Onion": 1,
+    "Hide and Seek Milano": 1,
+    "Uncle Chips Plain Salted": 1,
+    "Tiger Krunch": 2
+  },
+  "brands": {
+    "Coca-Cola": 0,
+    "Pepsi": 4,
+    "Lay's": 5,
+    "Doritos": 3,
+    "Other": 29
+  },
+  "ocr_labels": [
+    "₹20",
+    "₹28",
+    "₹99",
+    "₹30"
+  ],
+  "share_of_shelf": {
+    "Lay's": "11%",
+    "Doritos": "8%",
+    "Pepsi": "9%",
+    "Other": "72%",
+    "Coca-Cola": "0%"
+  },
+  "availability": {
+    "Coca-Cola": "Not Present",
+    "Pepsi": "Available",
+    "Lay's": "Available",
+    "Doritos": "Available"
+  },
+  "insights": {
+    "dominant_brand": "Other",
+    "highest_share_of_shelf": "Other",
+    "brands_present": [
+      "Pepsi",
+      "Lay's",
+      "Doritos"
+    ]
+  },
+  "product_price_associations": [
+    {
+      "product": "Cheetos Crunchy",
+      "price": "₹20"
+    },
+    {
+      "product": "Lay's Spanish Tomato Tango",
+      "price": "₹20"
+    },
+    {
+      "product": "Lay's Magic Masala",
+      "price": "₹20"
+    },
+    {
+      "product": "Doritos Cool Ranch",
+      "price": "₹28"
+    },
+    {
+      "product": "Pringles Sour Cream",
+      "price": "₹99"
+    },
+    {
+      "product": "Lay's Chile Limon",
+      "price": "₹20"
+    },
+    {
+      "product": "Other",
+      "price": "₹20"
+    },
+    {
+      "product": "Uncle Chips Plain Salted",
+      "price": "₹20"
+    },
+    {
+      "product": "Oreo Original",
+      "price": "₹20"
+    },
+    {
+      "product": "Marie Gold",
+      "price": "₹20"
+    },
+    {
+      "product": "Good Day Butter",
+      "price": "₹20"
+    },
+    {
+      "product": "Hide and Seek Milano",
+      "price": "₹30"
+    },
+    {
+      "product": "Hide and Seek Fab",
+      "price": "₹20"
+    },
+    {
+      "product": "Dark Fantasy",
+      "price": "₹30"
+    }
+  ]
+}
